@@ -1,0 +1,23 @@
+{
+    "appName": "MSTeamHelloWorld",
+    "projectId": "7f236e8c-ef19-43c0-ae09-ce86db437840",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Bot"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-identity",
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "version": "2.0.0",
+    "isFromSample": false,
+    "programmingLanguage": "typescript"
+}
